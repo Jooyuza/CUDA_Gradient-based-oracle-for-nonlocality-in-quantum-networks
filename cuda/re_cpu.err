@@ -1,0 +1,58 @@
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg002: task 3: Exited with exit code 1
+srun: error: marg002: task 4: Exited with exit code 1
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg002: tasks 1,5: Exited with exit code 1
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg002: task 0: Exited with exit code 1
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg002: task 2: Exited with exit code 1
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg005: task 1: Exited with exit code 1
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg005: task 3: Exited with exit code 1
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cpu.py", line 245, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: marg005: task 0: Exited with exit code 1
+srun: error: marg005: tasks 2,5: Exited with exit code 1
+srun: error: marg005: task 4: Exited with exit code 1

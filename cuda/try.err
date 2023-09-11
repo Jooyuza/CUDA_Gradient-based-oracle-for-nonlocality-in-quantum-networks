@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/at-sac/yuzhu/cuda/qu4_cuda.py", line 290, in <module>
+    m1_ = tc.eye(16,device=self.params.device) - m1
+NameError: name 'self' is not defined
+srun: error: margpu010: task 0: Exited with exit code 1
