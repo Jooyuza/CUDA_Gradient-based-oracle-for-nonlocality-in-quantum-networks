@@ -1,0 +1,2922 @@
+1692277902.9458354
+0 tensor(nan, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+10 tensor(1.0419, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+20 tensor(0.8378, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+30 tensor(0.7139, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+40 tensor(0.6247, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+50 tensor(0.5550, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+60 tensor(0.4982, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+70 tensor(0.4504, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+80 tensor(0.4095, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+90 tensor(0.3741, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+100 tensor(0.3430, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+110 tensor(0.3156, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+120 tensor(0.2911, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+130 tensor(0.2692, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+140 tensor(0.2494, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+150 tensor(0.2315, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+160 tensor(0.2152, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+170 tensor(0.2002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+180 tensor(0.1864, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+190 tensor(0.1737, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+200 tensor(0.1620, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+210 tensor(0.1510, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+220 tensor(0.1409, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+230 tensor(0.1314, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+240 tensor(0.1225, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+250 tensor(0.1141, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+260 tensor(0.1063, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+270 tensor(0.0989, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+280 tensor(0.0919, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+290 tensor(0.0853, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+300 tensor(0.0791, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+310 tensor(0.0732, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+320 tensor(0.0676, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+330 tensor(0.0623, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+340 tensor(0.0573, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+350 tensor(0.0525, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+360 tensor(0.0480, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+370 tensor(0.0437, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+380 tensor(0.0397, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+390 tensor(0.0359, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+400 tensor(0.0323, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+410 tensor(0.0290, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+420 tensor(0.0259, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+430 tensor(0.0231, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+440 tensor(0.0206, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+450 tensor(0.0182, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+460 tensor(0.0162, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+470 tensor(0.0143, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+480 tensor(0.0127, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+490 tensor(0.0112, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+500 tensor(0.0100, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+510 tensor(0.0089, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+520 tensor(0.0080, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+530 tensor(0.0072, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+540 tensor(0.0065, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+550 tensor(0.0059, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+560 tensor(0.0054, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+570 tensor(0.0049, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+580 tensor(0.0045, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+590 tensor(0.0042, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+600 tensor(0.0040, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+610 tensor(0.0037, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+620 tensor(0.0035, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+630 tensor(0.0034, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+640 tensor(0.0032, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+650 tensor(0.0031, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+660 tensor(0.0030, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+670 tensor(0.0029, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+680 tensor(0.0029, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+690 tensor(0.0028, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+700 tensor(0.0028, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+710 tensor(0.0027, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+720 tensor(0.0027, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+730 tensor(0.0026, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+740 tensor(0.0026, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+750 tensor(0.0026, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+760 tensor(0.0025, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+770 tensor(0.0025, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+780 tensor(0.0025, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+790 tensor(0.0025, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+800 tensor(0.0025, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+810 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+820 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+830 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+840 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+850 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+860 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+870 tensor(0.0024, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+880 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+890 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+900 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+910 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+920 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+930 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+940 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+950 tensor(0.0023, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+960 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+970 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+980 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+990 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1000 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1010 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1020 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1030 tensor(0.0022, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1040 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1050 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1060 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1070 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1080 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1090 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1100 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1110 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1120 tensor(0.0021, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1130 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1140 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1150 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1160 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1170 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1180 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1190 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1200 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1210 tensor(0.0020, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1220 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1230 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1240 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1250 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1260 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1270 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1280 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1290 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1300 tensor(0.0019, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1310 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1320 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1330 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1340 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1350 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1360 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1370 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1380 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1390 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1400 tensor(0.0018, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1410 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1420 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1430 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1440 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1450 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1460 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1470 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1480 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1490 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1500 tensor(0.0017, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1510 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1520 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1530 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1540 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1550 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1560 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1570 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1580 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1590 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1600 tensor(0.0016, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1610 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1620 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1630 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1640 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1650 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1660 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1670 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1680 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1690 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1700 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1710 tensor(0.0015, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1720 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1730 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1740 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1750 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1760 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1770 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1780 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1790 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1800 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1810 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1820 tensor(0.0014, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1830 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1840 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1850 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1860 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1870 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1880 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1890 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1900 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1910 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1920 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1930 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1940 tensor(0.0013, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1950 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1960 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1970 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1980 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1990 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2000 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2010 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2020 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2030 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2040 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2050 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2060 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2070 tensor(0.0012, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2080 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2090 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2100 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2110 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2120 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2130 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2140 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2150 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2160 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2170 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2180 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2190 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2200 tensor(0.0011, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2210 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2220 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2230 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2240 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2250 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2260 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2270 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2280 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2290 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2300 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2310 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2320 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2330 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2340 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2350 tensor(0.0010, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2360 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2370 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2380 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2390 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2400 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2410 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2420 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2430 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2440 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2450 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2460 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2470 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2480 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2490 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2500 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2510 tensor(0.0009, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2520 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2530 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2540 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2550 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2560 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2570 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2580 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2590 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2600 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2610 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2620 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2630 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2640 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2650 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2660 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2670 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2680 tensor(0.0008, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2690 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2700 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2710 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2720 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2730 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2740 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2750 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2760 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2770 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2780 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2790 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2800 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2810 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2820 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2830 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2840 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2850 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2860 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2870 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2880 tensor(0.0007, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2890 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2900 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2910 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2920 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2930 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2940 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2950 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2960 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2970 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2980 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2990 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3000 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3010 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3020 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3030 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3040 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3050 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3060 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3070 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3080 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3090 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3100 tensor(0.0006, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3110 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3120 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3130 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3140 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3150 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3160 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3170 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3180 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3190 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3200 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3210 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3220 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3230 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3240 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3250 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3260 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3270 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3280 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3290 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3300 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3310 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3320 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3330 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3340 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3350 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3360 tensor(0.0005, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3370 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3380 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3390 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3400 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3410 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3420 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3430 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3440 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3450 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3460 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3470 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3480 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3490 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3500 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3510 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3520 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3530 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3540 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3550 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3560 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3570 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3580 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3590 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3600 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3610 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3620 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3630 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3640 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3650 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3660 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3670 tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3680 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3690 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3700 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3710 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3720 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3730 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3740 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3750 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3760 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3770 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3780 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3790 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3800 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3810 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3820 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3830 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3840 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3850 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3860 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3870 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3880 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3890 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3900 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3910 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3920 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3930 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3940 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3950 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3960 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3970 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3980 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3990 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4000 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4010 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4020 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4030 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4040 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4050 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4060 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4070 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4080 tensor(0.0003, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4090 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4100 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4110 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4120 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4130 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4140 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4150 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4160 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4170 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4180 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4190 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4200 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4210 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4220 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4230 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4240 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4250 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4260 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4270 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4280 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4290 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4300 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4310 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4320 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4330 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4340 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4350 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4360 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4370 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4380 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4390 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4400 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4410 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4420 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4430 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4440 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4450 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4460 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4470 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4480 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4490 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4500 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4510 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4520 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4530 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4540 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4550 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4560 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4570 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4580 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4590 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4600 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4610 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4620 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4630 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4640 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4650 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4660 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4670 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4680 tensor(0.0002, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4690 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4700 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4710 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4720 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4730 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4740 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4750 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4760 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4770 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4780 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4790 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4800 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4810 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4820 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4830 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4840 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4850 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4860 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4870 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4880 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4890 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4900 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4910 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4920 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4930 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4940 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4950 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4960 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4970 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4980 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4990 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5000 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5010 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5020 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5030 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5040 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5050 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5060 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5070 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5080 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5090 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5100 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5110 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5120 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5130 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5140 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5150 tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5160 tensor(9.9682e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5170 tensor(9.8830e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5180 tensor(9.7986e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5190 tensor(9.7149e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5200 tensor(9.6320e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5210 tensor(9.5497e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5220 tensor(9.4683e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5230 tensor(9.3875e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5240 tensor(9.3074e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5250 tensor(9.2281e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5260 tensor(9.1495e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5270 tensor(9.0715e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5280 tensor(8.9943e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5290 tensor(8.9177e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5300 tensor(8.8418e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5310 tensor(8.7666e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5320 tensor(8.6921e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5330 tensor(8.6182e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5340 tensor(8.5450e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5350 tensor(8.4725e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5360 tensor(8.4005e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5370 tensor(8.3293e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5380 tensor(8.2587e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5390 tensor(8.1887e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5400 tensor(8.1193e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5410 tensor(8.0506e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5420 tensor(7.9825e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5430 tensor(7.9149e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5440 tensor(7.8480e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5450 tensor(7.7818e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5460 tensor(7.7161e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5470 tensor(7.6510e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5480 tensor(7.5864e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5490 tensor(7.5225e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5500 tensor(7.4592e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5510 tensor(7.3964e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5520 tensor(7.3342e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5530 tensor(7.2725e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5540 tensor(7.2115e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5550 tensor(7.1509e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5560 tensor(7.0910e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5570 tensor(7.0315e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5580 tensor(6.9726e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5590 tensor(6.9143e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5600 tensor(6.8565e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5610 tensor(6.7992e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5620 tensor(6.7424e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5630 tensor(6.6862e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5640 tensor(6.6305e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5650 tensor(6.5752e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5660 tensor(6.5205e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5670 tensor(6.4663e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5680 tensor(6.4126e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5690 tensor(6.3594e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5700 tensor(6.3066e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5710 tensor(6.2544e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5720 tensor(6.2026e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5730 tensor(6.1513e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5740 tensor(6.1005e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5750 tensor(6.0502e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5760 tensor(6.0003e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5770 tensor(5.9509e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5780 tensor(5.9019e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5790 tensor(5.8534e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5800 tensor(5.8053e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5810 tensor(5.7577e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5820 tensor(5.7105e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5830 tensor(5.6638e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5840 tensor(5.6175e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5850 tensor(5.5716e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5860 tensor(5.5261e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5870 tensor(5.4811e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5880 tensor(5.4365e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5890 tensor(5.3923e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5900 tensor(5.3485e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5910 tensor(5.3051e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5920 tensor(5.2621e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5930 tensor(5.2195e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5940 tensor(5.1773e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5950 tensor(5.1355e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5960 tensor(5.0941e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5970 tensor(5.0531e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5980 tensor(5.0124e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+5990 tensor(4.9721e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6000 tensor(4.9323e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6010 tensor(4.8927e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6020 tensor(4.8536e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6030 tensor(4.8148e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6040 tensor(4.7763e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6050 tensor(4.7383e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6060 tensor(4.7005e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6070 tensor(4.6632e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6080 tensor(4.6261e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6090 tensor(4.5895e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6100 tensor(4.5531e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6110 tensor(4.5171e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6120 tensor(4.4814e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6130 tensor(4.4461e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6140 tensor(4.4111e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6150 tensor(4.3764e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6160 tensor(4.3420e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6170 tensor(4.3080e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6180 tensor(4.2743e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6190 tensor(4.2408e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6200 tensor(4.2077e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6210 tensor(4.1749e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6220 tensor(4.1424e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6230 tensor(4.1102e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6240 tensor(4.0783e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6250 tensor(4.0467e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6260 tensor(4.0154e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6270 tensor(3.9843e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6280 tensor(3.9536e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6290 tensor(3.9231e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6300 tensor(3.8930e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6310 tensor(3.8631e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6320 tensor(3.8334e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6330 tensor(3.8041e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6340 tensor(3.7750e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6350 tensor(3.7462e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6360 tensor(3.7176e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6370 tensor(3.6893e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6380 tensor(3.6613e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6390 tensor(3.6335e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6400 tensor(3.6059e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6410 tensor(3.5787e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6420 tensor(3.5516e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6430 tensor(3.5248e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6440 tensor(3.4983e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6450 tensor(3.4720e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6460 tensor(3.4459e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6470 tensor(3.4201e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6480 tensor(3.3945e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6490 tensor(3.3691e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6500 tensor(3.3440e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6510 tensor(3.3191e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6520 tensor(3.2944e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6530 tensor(3.2699e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6540 tensor(3.2456e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6550 tensor(3.2216e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6560 tensor(3.1978e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6570 tensor(3.1742e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6580 tensor(3.1508e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6590 tensor(3.1276e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6600 tensor(3.1046e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6610 tensor(3.0818e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6620 tensor(3.0592e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6630 tensor(3.0369e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6640 tensor(3.0147e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6650 tensor(2.9927e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6660 tensor(2.9709e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6670 tensor(2.9493e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6680 tensor(2.9278e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6690 tensor(2.9066e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6700 tensor(2.8856e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6710 tensor(2.8647e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6720 tensor(2.8440e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6730 tensor(2.8235e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6740 tensor(2.8032e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6750 tensor(2.7830e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6760 tensor(2.7630e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6770 tensor(2.7432e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6780 tensor(2.7236e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6790 tensor(2.7041e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6800 tensor(2.6848e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6810 tensor(2.6656e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6820 tensor(2.6467e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6830 tensor(2.6278e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6840 tensor(2.6092e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6850 tensor(2.5907e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6860 tensor(2.5723e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6870 tensor(2.5541e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6880 tensor(2.5361e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6890 tensor(2.5182e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6900 tensor(2.5004e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6910 tensor(2.4828e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6920 tensor(2.4653e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6930 tensor(2.4480e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6940 tensor(2.4309e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6950 tensor(2.4138e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6960 tensor(2.3969e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6970 tensor(2.3802e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6980 tensor(2.3636e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+6990 tensor(2.3471e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7000 tensor(2.3308e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7010 tensor(2.3145e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7020 tensor(2.2985e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7030 tensor(2.2825e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7040 tensor(2.2667e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7050 tensor(2.2510e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7060 tensor(2.2354e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7070 tensor(2.2199e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7080 tensor(2.2046e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7090 tensor(2.1894e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7100 tensor(2.1743e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7110 tensor(2.1594e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7120 tensor(2.1445e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7130 tensor(2.1298e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7140 tensor(2.1152e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7150 tensor(2.1006e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7160 tensor(2.0863e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7170 tensor(2.0720e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7180 tensor(2.0578e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7190 tensor(2.0437e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7200 tensor(2.0298e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7210 tensor(2.0160e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7220 tensor(2.0022e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7230 tensor(1.9886e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7240 tensor(1.9751e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7250 tensor(1.9616e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7260 tensor(1.9483e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7270 tensor(1.9351e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7280 tensor(1.9220e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7290 tensor(1.9089e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7300 tensor(1.8960e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7310 tensor(1.8832e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7320 tensor(1.8704e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7330 tensor(1.8578e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7340 tensor(1.8453e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7350 tensor(1.8328e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7360 tensor(1.8205e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7370 tensor(1.8082e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7380 tensor(1.7960e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7390 tensor(1.7839e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7400 tensor(1.7719e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7410 tensor(1.7600e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7420 tensor(1.7482e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7430 tensor(1.7365e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7440 tensor(1.7248e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7450 tensor(1.7133e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7460 tensor(1.7018e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7470 tensor(1.6904e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7480 tensor(1.6791e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7490 tensor(1.6678e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7500 tensor(1.6567e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7510 tensor(1.6456e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7520 tensor(1.6346e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7530 tensor(1.6237e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7540 tensor(1.6129e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7550 tensor(1.6021e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7560 tensor(1.5915e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7570 tensor(1.5809e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7580 tensor(1.5703e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7590 tensor(1.5599e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7600 tensor(1.5495e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7610 tensor(1.5392e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7620 tensor(1.5290e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7630 tensor(1.5188e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7640 tensor(1.5088e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7650 tensor(1.4988e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7660 tensor(1.4888e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7670 tensor(1.4790e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7680 tensor(1.4692e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7690 tensor(1.4594e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7700 tensor(1.4498e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7710 tensor(1.4402e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7720 tensor(1.4306e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7730 tensor(1.4212e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7740 tensor(1.4118e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7750 tensor(1.4025e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7760 tensor(1.3932e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7770 tensor(1.3840e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7780 tensor(1.3749e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7790 tensor(1.3658e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7800 tensor(1.3568e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7810 tensor(1.3479e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7820 tensor(1.3390e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7830 tensor(1.3302e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7840 tensor(1.3215e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7850 tensor(1.3128e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7860 tensor(1.3041e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7870 tensor(1.2956e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7880 tensor(1.2871e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7890 tensor(1.2786e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7900 tensor(1.2702e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7910 tensor(1.2619e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7920 tensor(1.2536e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7930 tensor(1.2454e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7940 tensor(1.2373e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7950 tensor(1.2292e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7960 tensor(1.2211e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7970 tensor(1.2131e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7980 tensor(1.2052e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+7990 tensor(1.1973e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8000 tensor(1.1895e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8010 tensor(1.1818e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8020 tensor(1.1741e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8030 tensor(1.1664e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8040 tensor(1.1588e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8050 tensor(1.1513e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8060 tensor(1.1438e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8070 tensor(1.1363e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8080 tensor(1.1290e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8090 tensor(1.1216e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8100 tensor(1.1143e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8110 tensor(1.1071e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8120 tensor(1.0999e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8130 tensor(1.0928e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8140 tensor(1.0857e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8150 tensor(1.0787e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8160 tensor(1.0717e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8170 tensor(1.0648e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8180 tensor(1.0579e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8190 tensor(1.0511e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8200 tensor(1.0443e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8210 tensor(1.0376e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8220 tensor(1.0309e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8230 tensor(1.0243e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8240 tensor(1.0177e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8250 tensor(1.0111e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8260 tensor(1.0047e-05, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8270 tensor(9.9821e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8280 tensor(9.9181e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8290 tensor(9.8546e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8300 tensor(9.7915e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8310 tensor(9.7289e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8320 tensor(9.6668e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8330 tensor(9.6051e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8340 tensor(9.5438e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8350 tensor(9.4830e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8360 tensor(9.4227e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8370 tensor(9.3628e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8380 tensor(9.3033e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8390 tensor(9.2443e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8400 tensor(9.1856e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8410 tensor(9.1275e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8420 tensor(9.0697e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8430 tensor(9.0124e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8440 tensor(8.9555e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8450 tensor(8.8990e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8460 tensor(8.8429e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8470 tensor(8.7873e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8480 tensor(8.7320e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8490 tensor(8.6772e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8500 tensor(8.6228e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8510 tensor(8.5688e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8520 tensor(8.5152e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8530 tensor(8.4619e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8540 tensor(8.4091e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8550 tensor(8.3567e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8560 tensor(8.3047e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8570 tensor(8.2530e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8580 tensor(8.2018e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8590 tensor(8.1509e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8600 tensor(8.1004e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8610 tensor(8.0503e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8620 tensor(8.0006e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8630 tensor(7.9513e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8640 tensor(7.9023e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8650 tensor(7.8537e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8660 tensor(7.8055e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8670 tensor(7.7576e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8680 tensor(7.7101e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8690 tensor(7.6630e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8700 tensor(7.6162e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8710 tensor(7.5698e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8720 tensor(7.5237e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8730 tensor(7.4780e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8740 tensor(7.4326e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8750 tensor(7.3876e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8760 tensor(7.3430e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8770 tensor(7.2986e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8780 tensor(7.2546e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8790 tensor(7.2110e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8800 tensor(7.1677e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8810 tensor(7.1247e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8820 tensor(7.0821e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8830 tensor(7.0398e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8840 tensor(6.9978e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8850 tensor(6.9562e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8860 tensor(6.9148e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8870 tensor(6.8738e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8880 tensor(6.8331e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8890 tensor(6.7928e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8900 tensor(6.7527e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8910 tensor(6.7130e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8920 tensor(6.6735e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8930 tensor(6.6344e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8940 tensor(6.5956e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8950 tensor(6.5571e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8960 tensor(6.5189e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8970 tensor(6.4809e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8980 tensor(6.4433e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+8990 tensor(6.4060e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9000 tensor(6.3690e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9010 tensor(6.3323e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9020 tensor(6.2958e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9030 tensor(6.2596e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9040 tensor(6.2238e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9050 tensor(6.1882e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9060 tensor(6.1529e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9070 tensor(6.1178e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9080 tensor(6.0831e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9090 tensor(6.0486e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9100 tensor(6.0144e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9110 tensor(5.9805e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9120 tensor(5.9468e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9130 tensor(5.9134e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9140 tensor(5.8803e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9150 tensor(5.8474e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9160 tensor(5.8148e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9170 tensor(5.7824e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9180 tensor(5.7503e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9190 tensor(5.7184e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9200 tensor(5.6869e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9210 tensor(5.6555e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9220 tensor(5.6244e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9230 tensor(5.5936e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9240 tensor(5.5629e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9250 tensor(5.5326e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9260 tensor(5.5024e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9270 tensor(5.4726e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9280 tensor(5.4429e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9290 tensor(5.4135e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9300 tensor(5.3843e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9310 tensor(5.3553e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9320 tensor(5.3266e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9330 tensor(5.2981e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9340 tensor(5.2698e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9350 tensor(5.2418e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9360 tensor(5.2139e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9370 tensor(5.1863e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9380 tensor(5.1589e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9390 tensor(5.1317e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9400 tensor(5.1048e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9410 tensor(5.0780e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9420 tensor(5.0515e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9430 tensor(5.0251e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9440 tensor(4.9990e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9450 tensor(4.9731e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9460 tensor(4.9473e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9470 tensor(4.9218e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9480 tensor(4.8965e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9490 tensor(4.8713e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9500 tensor(4.8464e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9510 tensor(4.8216e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9520 tensor(4.7971e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9530 tensor(4.7727e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9540 tensor(4.7485e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9550 tensor(4.7245e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9560 tensor(4.7007e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9570 tensor(4.6771e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9580 tensor(4.6537e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9590 tensor(4.6304e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9600 tensor(4.6073e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9610 tensor(4.5844e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9620 tensor(4.5617e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9630 tensor(4.5391e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9640 tensor(4.5167e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9650 tensor(4.4945e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9660 tensor(4.4724e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9670 tensor(4.4505e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9680 tensor(4.4288e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9690 tensor(4.4072e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9700 tensor(4.3858e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9710 tensor(4.3646e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9720 tensor(4.3435e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9730 tensor(4.3226e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9740 tensor(4.3018e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9750 tensor(4.2812e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9760 tensor(4.2607e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9770 tensor(4.2404e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9780 tensor(4.2202e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9790 tensor(4.2002e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9800 tensor(4.1803e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9810 tensor(4.1605e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9820 tensor(4.1410e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9830 tensor(4.1215e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9840 tensor(4.1022e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9850 tensor(4.0830e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9860 tensor(4.0640e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9870 tensor(4.0451e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9880 tensor(4.0263e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9890 tensor(4.0077e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9900 tensor(3.9892e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9910 tensor(3.9708e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9920 tensor(3.9526e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9930 tensor(3.9344e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9940 tensor(3.9164e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9950 tensor(3.8986e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9960 tensor(3.8808e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9970 tensor(3.8632e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9980 tensor(3.8457e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+9990 tensor(3.8283e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10000 tensor(3.8111e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10010 tensor(3.7939e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10020 tensor(3.7769e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10030 tensor(3.7600e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10040 tensor(3.7432e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10050 tensor(3.7265e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10060 tensor(3.7099e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10070 tensor(3.6934e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10080 tensor(3.6770e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10090 tensor(3.6608e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10100 tensor(3.6446e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10110 tensor(3.6286e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10120 tensor(3.6127e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10130 tensor(3.5968e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10140 tensor(3.5811e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10150 tensor(3.5654e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10160 tensor(3.5499e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10170 tensor(3.5345e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10180 tensor(3.5191e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10190 tensor(3.5039e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10200 tensor(3.4887e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10210 tensor(3.4737e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10220 tensor(3.4587e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10230 tensor(3.4438e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10240 tensor(3.4290e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10250 tensor(3.4143e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10260 tensor(3.3997e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10270 tensor(3.3852e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10280 tensor(3.3708e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10290 tensor(3.3565e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10300 tensor(3.3422e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10310 tensor(3.3280e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10320 tensor(3.3139e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10330 tensor(3.2999e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10340 tensor(3.2860e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10350 tensor(3.2722e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10360 tensor(3.2584e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10370 tensor(3.2447e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10380 tensor(3.2311e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10390 tensor(3.2176e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10400 tensor(3.2041e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10410 tensor(3.1907e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10420 tensor(3.1774e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10430 tensor(3.1642e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10440 tensor(3.1511e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10450 tensor(3.1380e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10460 tensor(3.1250e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10470 tensor(3.1120e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10480 tensor(3.0991e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10490 tensor(3.0863e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10500 tensor(3.0736e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10510 tensor(3.0609e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10520 tensor(3.0484e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10530 tensor(3.0358e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10540 tensor(3.0234e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10550 tensor(3.0110e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10560 tensor(2.9986e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10570 tensor(2.9863e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10580 tensor(2.9741e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10590 tensor(2.9620e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10600 tensor(2.9499e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10610 tensor(2.9379e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10620 tensor(2.9259e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10630 tensor(2.9140e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10640 tensor(2.9022e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10650 tensor(2.8904e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10660 tensor(2.8787e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10670 tensor(2.8670e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10680 tensor(2.8554e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10690 tensor(2.8438e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10700 tensor(2.8323e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10710 tensor(2.8209e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10720 tensor(2.8095e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10730 tensor(2.7982e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10740 tensor(2.7869e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10750 tensor(2.7757e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10760 tensor(2.7645e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10770 tensor(2.7534e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10780 tensor(2.7423e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10790 tensor(2.7313e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10800 tensor(2.7203e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10810 tensor(2.7094e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10820 tensor(2.6985e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10830 tensor(2.6877e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10840 tensor(2.6770e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10850 tensor(2.6662e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10860 tensor(2.6556e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10870 tensor(2.6449e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10880 tensor(2.6344e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10890 tensor(2.6238e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10900 tensor(2.6134e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10910 tensor(2.6029e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10920 tensor(2.5925e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10930 tensor(2.5822e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10940 tensor(2.5719e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10950 tensor(2.5616e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10960 tensor(2.5514e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10970 tensor(2.5412e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10980 tensor(2.5311e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+10990 tensor(2.5210e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11000 tensor(2.5110e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11010 tensor(2.5010e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11020 tensor(2.4910e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11030 tensor(2.4811e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11040 tensor(2.4713e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11050 tensor(2.4614e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11060 tensor(2.4516e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11070 tensor(2.4419e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11080 tensor(2.4322e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11090 tensor(2.4225e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11100 tensor(2.4129e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11110 tensor(2.4033e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11120 tensor(2.3937e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11130 tensor(2.3842e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11140 tensor(2.3747e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11150 tensor(2.3653e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11160 tensor(2.3559e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11170 tensor(2.3465e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11180 tensor(2.3372e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11190 tensor(2.3279e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11200 tensor(2.3186e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11210 tensor(2.3094e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11220 tensor(2.3002e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11230 tensor(2.2911e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11240 tensor(2.2820e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11250 tensor(2.2729e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11260 tensor(2.2639e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11270 tensor(2.2549e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11280 tensor(2.2459e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11290 tensor(2.2370e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11300 tensor(2.2281e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11310 tensor(2.2192e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11320 tensor(2.2104e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11330 tensor(2.2016e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11340 tensor(2.1928e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11350 tensor(2.1841e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11360 tensor(2.1754e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11370 tensor(2.1667e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11380 tensor(2.1581e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11390 tensor(2.1495e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11400 tensor(2.1409e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11410 tensor(2.1323e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11420 tensor(2.1238e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11430 tensor(2.1154e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11440 tensor(2.1069e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11450 tensor(2.0985e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11460 tensor(2.0901e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11470 tensor(2.0818e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11480 tensor(2.0734e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11490 tensor(2.0652e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11500 tensor(2.0569e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11510 tensor(2.0487e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11520 tensor(2.0405e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11530 tensor(2.0323e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11540 tensor(2.0241e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11550 tensor(2.0160e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11560 tensor(2.0080e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11570 tensor(1.9999e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11580 tensor(1.9919e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11590 tensor(1.9839e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11600 tensor(1.9759e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11610 tensor(1.9680e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11620 tensor(1.9601e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11630 tensor(1.9522e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11640 tensor(1.9443e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11650 tensor(1.9365e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11660 tensor(1.9287e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11670 tensor(1.9209e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11680 tensor(1.9132e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11690 tensor(1.9055e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11700 tensor(1.8978e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11710 tensor(1.8901e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11720 tensor(1.8825e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11730 tensor(1.8749e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11740 tensor(1.8673e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11750 tensor(1.8597e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11760 tensor(1.8522e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11770 tensor(1.8447e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11780 tensor(1.8372e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11790 tensor(1.8298e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11800 tensor(1.8224e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11810 tensor(1.8150e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11820 tensor(1.8076e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11830 tensor(1.8003e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11840 tensor(1.7929e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11850 tensor(1.7856e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11860 tensor(1.7784e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11870 tensor(1.7711e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11880 tensor(1.7639e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11890 tensor(1.7567e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11900 tensor(1.7495e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11910 tensor(1.7424e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11920 tensor(1.7353e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11930 tensor(1.7282e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11940 tensor(1.7211e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11950 tensor(1.7141e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11960 tensor(1.7070e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11970 tensor(1.7001e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11980 tensor(1.6931e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+11990 tensor(1.6861e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12000 tensor(1.6792e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12010 tensor(1.6723e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12020 tensor(1.6654e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12030 tensor(1.6586e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12040 tensor(1.6517e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12050 tensor(1.6449e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12060 tensor(1.6381e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12070 tensor(1.6314e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12080 tensor(1.6247e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12090 tensor(1.6179e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12100 tensor(1.6112e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12110 tensor(1.6046e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12120 tensor(1.5979e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12130 tensor(1.5913e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12140 tensor(1.5847e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12150 tensor(1.5781e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12160 tensor(1.5716e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12170 tensor(1.5650e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12180 tensor(1.5585e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12190 tensor(1.5521e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12200 tensor(1.5456e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12210 tensor(1.5391e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12220 tensor(1.5327e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12230 tensor(1.5263e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12240 tensor(1.5199e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12250 tensor(1.5136e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12260 tensor(1.5073e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12270 tensor(1.5009e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12280 tensor(1.4947e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12290 tensor(1.4884e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12300 tensor(1.4821e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12310 tensor(1.4759e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12320 tensor(1.4697e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12330 tensor(1.4635e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12340 tensor(1.4574e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12350 tensor(1.4512e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12360 tensor(1.4451e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12370 tensor(1.4390e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12380 tensor(1.4329e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12390 tensor(1.4269e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12400 tensor(1.4208e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12410 tensor(1.4148e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12420 tensor(1.4088e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12430 tensor(1.4029e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12440 tensor(1.3969e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12450 tensor(1.3910e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12460 tensor(1.3851e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12470 tensor(1.3792e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12480 tensor(1.3733e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12490 tensor(1.3675e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12500 tensor(1.3616e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12510 tensor(1.3558e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12520 tensor(1.3500e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12530 tensor(1.3443e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12540 tensor(1.3385e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12550 tensor(1.3328e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12560 tensor(1.3271e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12570 tensor(1.3214e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12580 tensor(1.3157e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12590 tensor(1.3101e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12600 tensor(1.3044e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12610 tensor(1.2988e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12620 tensor(1.2932e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12630 tensor(1.2876e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12640 tensor(1.2821e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12650 tensor(1.2766e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12660 tensor(1.2710e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12670 tensor(1.2656e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12680 tensor(1.2601e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12690 tensor(1.2546e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12700 tensor(1.2492e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12710 tensor(1.2438e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12720 tensor(1.2384e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12730 tensor(1.2330e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12740 tensor(1.2276e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12750 tensor(1.2223e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12760 tensor(1.2170e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12770 tensor(1.2117e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12780 tensor(1.2064e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12790 tensor(1.2011e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12800 tensor(1.1959e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12810 tensor(1.1906e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12820 tensor(1.1854e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12830 tensor(1.1802e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12840 tensor(1.1751e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12850 tensor(1.1699e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12860 tensor(1.1648e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12870 tensor(1.1596e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12880 tensor(1.1545e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12890 tensor(1.1495e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12900 tensor(1.1444e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12910 tensor(1.1394e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12920 tensor(1.1343e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12930 tensor(1.1293e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12940 tensor(1.1243e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12950 tensor(1.1193e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12960 tensor(1.1144e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12970 tensor(1.1095e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12980 tensor(1.1045e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+12990 tensor(1.0996e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13000 tensor(1.0948e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13010 tensor(1.0899e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13020 tensor(1.0850e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13030 tensor(1.0802e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13040 tensor(1.0754e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13050 tensor(1.0706e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13060 tensor(1.0658e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13070 tensor(1.0611e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13080 tensor(1.0563e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13090 tensor(1.0516e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13100 tensor(1.0469e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13110 tensor(1.0422e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13120 tensor(1.0375e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13130 tensor(1.0329e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13140 tensor(1.0282e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13150 tensor(1.0236e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13160 tensor(1.0190e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13170 tensor(1.0144e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13180 tensor(1.0098e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13190 tensor(1.0053e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13200 tensor(1.0008e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13210 tensor(9.9624e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13220 tensor(9.9174e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13230 tensor(9.8725e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13240 tensor(9.8279e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13250 tensor(9.7833e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13260 tensor(9.7390e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13270 tensor(9.6948e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13280 tensor(9.6508e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13290 tensor(9.6069e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13300 tensor(9.5633e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13310 tensor(9.5198e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13320 tensor(9.4764e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13330 tensor(9.4332e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13340 tensor(9.3902e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13350 tensor(9.3473e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13360 tensor(9.3046e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13370 tensor(9.2621e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13380 tensor(9.2198e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13390 tensor(9.1776e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13400 tensor(9.1355e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13410 tensor(9.0936e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13420 tensor(9.0519e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13430 tensor(9.0104e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13440 tensor(8.9690e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13450 tensor(8.9277e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13460 tensor(8.8866e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13470 tensor(8.8457e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13480 tensor(8.8050e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13490 tensor(8.7644e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13500 tensor(8.7239e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13510 tensor(8.6837e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13520 tensor(8.6435e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13530 tensor(8.6036e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13540 tensor(8.5638e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13550 tensor(8.5241e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13560 tensor(8.4846e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13570 tensor(8.4453e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13580 tensor(8.4061e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13590 tensor(8.3671e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13600 tensor(8.3282e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13610 tensor(8.2895e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13620 tensor(8.2509e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13630 tensor(8.2125e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13640 tensor(8.1742e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13650 tensor(8.1361e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13660 tensor(8.0981e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13670 tensor(8.0603e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13680 tensor(8.0227e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13690 tensor(7.9852e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13700 tensor(7.9478e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13710 tensor(7.9106e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13720 tensor(7.8736e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13730 tensor(7.8367e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13740 tensor(7.7999e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13750 tensor(7.7633e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13760 tensor(7.7269e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13770 tensor(7.6906e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13780 tensor(7.6544e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13790 tensor(7.6184e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13800 tensor(7.5825e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13810 tensor(7.5468e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13820 tensor(7.5112e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13830 tensor(7.4758e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13840 tensor(7.4405e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13850 tensor(7.4054e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13860 tensor(7.3704e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13870 tensor(7.3356e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13880 tensor(7.3009e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13890 tensor(7.2663e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13900 tensor(7.2319e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13910 tensor(7.1976e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13920 tensor(7.1635e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13930 tensor(7.1295e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13940 tensor(7.0956e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13950 tensor(7.0619e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13960 tensor(7.0284e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13970 tensor(6.9949e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13980 tensor(6.9617e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+13990 tensor(6.9285e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14000 tensor(6.8955e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14010 tensor(6.8626e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14020 tensor(6.8299e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14030 tensor(6.7973e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14040 tensor(6.7649e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14050 tensor(6.7325e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14060 tensor(6.7004e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14070 tensor(6.6683e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14080 tensor(6.6364e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14090 tensor(6.6046e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14100 tensor(6.5730e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14110 tensor(6.5415e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14120 tensor(6.5101e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14130 tensor(6.4789e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14140 tensor(6.4478e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14150 tensor(6.4168e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14160 tensor(6.3860e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14170 tensor(6.3553e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14180 tensor(6.3247e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14190 tensor(6.2943e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14200 tensor(6.2640e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14210 tensor(6.2338e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14220 tensor(6.2037e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14230 tensor(6.1738e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14240 tensor(6.1440e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14250 tensor(6.1144e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14260 tensor(6.0848e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14270 tensor(6.0554e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14280 tensor(6.0262e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14290 tensor(5.9970e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14300 tensor(5.9680e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14310 tensor(5.9391e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14320 tensor(5.9103e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14330 tensor(5.8817e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14340 tensor(5.8532e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14350 tensor(5.8248e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14360 tensor(5.7965e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14370 tensor(5.7684e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14380 tensor(5.7404e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14390 tensor(5.7125e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14400 tensor(5.6847e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14410 tensor(5.6571e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14420 tensor(5.6295e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14430 tensor(5.6021e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14440 tensor(5.5749e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14450 tensor(5.5477e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14460 tensor(5.5207e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14470 tensor(5.5137e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14480 tensor(1.7288e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14490 tensor(8.9356e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14500 tensor(5.9557e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14510 tensor(5.5028e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14520 tensor(5.5152e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14530 tensor(5.3444e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14540 tensor(5.3269e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14550 tensor(5.2994e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14560 tensor(5.2693e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14570 tensor(5.2442e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14580 tensor(5.2202e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14590 tensor(5.1963e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14600 tensor(5.1724e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14610 tensor(5.1486e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14620 tensor(5.1249e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14630 tensor(5.1013e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14640 tensor(5.0778e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14650 tensor(5.0543e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14660 tensor(5.0310e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14670 tensor(5.0078e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14680 tensor(4.9846e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14690 tensor(4.9616e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14700 tensor(4.9386e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14710 tensor(4.9157e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14720 tensor(4.8929e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14730 tensor(4.8702e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14740 tensor(4.8476e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14750 tensor(4.8251e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14760 tensor(4.8026e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14770 tensor(4.7803e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14780 tensor(4.7580e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14790 tensor(4.7359e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14800 tensor(4.7138e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14810 tensor(4.6918e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14820 tensor(4.6699e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14830 tensor(4.6480e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14840 tensor(4.6263e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14850 tensor(4.6046e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14860 tensor(4.5831e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14870 tensor(4.5616e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14880 tensor(4.5402e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14890 tensor(4.5320e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14900 tensor(1.1868e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14910 tensor(5.6508e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14920 tensor(4.4678e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14930 tensor(4.8543e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14940 tensor(4.6567e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14950 tensor(4.4329e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14960 tensor(4.3776e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14970 tensor(4.3596e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14980 tensor(4.3404e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+14990 tensor(4.3202e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15000 tensor(4.3004e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15010 tensor(4.2810e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15020 tensor(4.2618e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15030 tensor(4.2427e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15040 tensor(4.2238e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15050 tensor(4.2049e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15060 tensor(4.1861e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15070 tensor(4.1673e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15080 tensor(4.1486e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15090 tensor(4.1300e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15100 tensor(4.1115e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15110 tensor(4.0930e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15120 tensor(4.0745e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15130 tensor(4.0562e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15140 tensor(4.0379e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15150 tensor(4.0197e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15160 tensor(4.0015e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15170 tensor(3.9834e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15180 tensor(3.9654e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15190 tensor(3.9475e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15200 tensor(3.9296e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15210 tensor(3.9117e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15220 tensor(3.8940e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15230 tensor(3.8763e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15240 tensor(3.8587e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15250 tensor(3.8411e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15260 tensor(3.8236e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15270 tensor(3.8069e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15280 tensor(4.1891e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15290 tensor(6.6468e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15300 tensor(4.2356e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15310 tensor(4.0452e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15320 tensor(4.2441e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15330 tensor(3.8257e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15340 tensor(3.6913e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15350 tensor(3.6793e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15360 tensor(3.6642e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15370 tensor(3.6453e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15380 tensor(3.6277e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15390 tensor(3.6114e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15400 tensor(3.5955e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15410 tensor(3.5799e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15420 tensor(3.5643e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15430 tensor(3.5489e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15440 tensor(3.5335e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15450 tensor(3.5182e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15460 tensor(3.5029e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15470 tensor(3.4876e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15480 tensor(3.4724e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15490 tensor(3.4573e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15500 tensor(3.4422e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15510 tensor(3.4272e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15520 tensor(3.4122e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15530 tensor(3.3972e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15540 tensor(3.3824e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15550 tensor(3.3675e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15560 tensor(3.3527e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15570 tensor(3.3380e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15580 tensor(3.3233e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15590 tensor(3.3087e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15600 tensor(3.2941e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15610 tensor(3.2796e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15620 tensor(3.2651e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15630 tensor(3.2507e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15640 tensor(3.2363e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15650 tensor(3.2219e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15660 tensor(3.2103e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15670 tensor(4.6269e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15680 tensor(6.2830e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15690 tensor(5.6430e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15700 tensor(4.6649e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15710 tensor(3.2500e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15720 tensor(3.1589e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15730 tensor(3.1731e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15740 tensor(3.1216e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15750 tensor(3.0903e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15760 tensor(3.0739e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15770 tensor(3.0608e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15780 tensor(3.0479e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15790 tensor(3.0352e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15800 tensor(3.0224e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15810 tensor(3.0097e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15820 tensor(2.9971e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15830 tensor(2.9845e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15840 tensor(2.9719e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15850 tensor(2.9594e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15860 tensor(2.9469e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15870 tensor(2.9344e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15880 tensor(2.9220e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15890 tensor(2.9096e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15900 tensor(2.8973e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15910 tensor(2.8850e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15920 tensor(2.8727e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15930 tensor(2.8605e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15940 tensor(2.8483e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15950 tensor(2.8361e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15960 tensor(2.8240e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15970 tensor(2.8119e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15980 tensor(2.7999e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+15990 tensor(2.7879e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16000 tensor(2.7760e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16010 tensor(2.7640e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16020 tensor(2.7522e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16030 tensor(2.7403e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16040 tensor(2.7285e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16050 tensor(2.7171e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16060 tensor(2.8813e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16070 tensor(2.7618e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16080 tensor(9.8106e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16090 tensor(2.8620e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16100 tensor(3.2502e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16110 tensor(2.8894e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16120 tensor(2.6386e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16130 tensor(2.6581e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16140 tensor(2.6301e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16150 tensor(2.6077e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16160 tensor(2.5958e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16170 tensor(2.5854e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16180 tensor(2.5749e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16190 tensor(2.5644e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16200 tensor(2.5540e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16210 tensor(2.5436e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16220 tensor(2.5332e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16230 tensor(2.5229e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16240 tensor(2.5126e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16250 tensor(2.5023e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16260 tensor(2.4920e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16270 tensor(2.4818e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16280 tensor(2.4717e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16290 tensor(2.4615e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16300 tensor(2.4514e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16310 tensor(2.4413e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16320 tensor(2.4312e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16330 tensor(2.4212e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16340 tensor(2.4112e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16350 tensor(2.4012e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16360 tensor(2.3912e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16370 tensor(2.3813e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16380 tensor(2.3714e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16390 tensor(2.3616e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16400 tensor(2.3517e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16410 tensor(2.3419e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16420 tensor(2.3321e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16430 tensor(2.3224e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16440 tensor(2.3127e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16450 tensor(2.3030e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16460 tensor(2.2934e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16470 tensor(2.3131e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16480 tensor(1.9110e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16490 tensor(2.3480e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16500 tensor(4.5007e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16510 tensor(3.2236e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16520 tensor(2.2728e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+16530 tensor(2.3976e-07, device='cuda:0', dtype=torch.float64,
+       grad_fn=<AddBackward0>)
+Result - Target = tensor([[[[-5.6648e-07,  1.3409e-06,  1.0068e-07, -1.5322e-06],
+          [ 1.3409e-06, -6.9039e-07,  8.5919e-07, -3.2194e-06],
+          [ 1.0068e-07,  3.3722e-06, -7.5026e-08, -1.9811e-06],
+          [-1.5322e-06,  4.3322e-06, -5.9169e-07, -1.3824e-06]],
+
+         [[ 1.3409e-06,  6.9270e-06,  2.1068e-06, -3.3062e-06],
+          [-6.9039e-07, -7.8666e-07, -1.3779e-07, -4.4074e-06],
+          [ 8.5919e-07,  5.4444e-06,  1.7991e-06, -2.3460e-06],
+          [-3.2194e-06,  4.1573e-06, -1.4071e-07, -2.0761e-06]],
+
+         [[ 1.0068e-07,  2.1068e-06, -2.2060e-06, -1.6017e-06],
+          [ 3.3722e-06,  2.1613e-06, -1.7007e-06, -1.4233e-06],
+          [-7.5026e-08,  1.6782e-06, -1.0472e-06,  3.4278e-08],
+          [-1.9811e-06, -1.7319e-06,  3.6510e-07,  2.7283e-06]],
+
+         [[-1.5322e-06, -3.3062e-06, -1.6017e-06,  4.0454e-06],
+          [ 4.3322e-06,  1.8240e-06,  2.6708e-07,  2.1045e-06],
+          [-5.9169e-07,  1.5503e-07, -1.8384e-06,  1.2359e-06],
+          [-1.3824e-06, -1.1845e-06, -3.1937e-06,  6.0025e-07]]],
+
+
+        [[[ 1.3409e-06, -6.9039e-07,  3.3722e-06,  4.3322e-06],
+          [ 6.9270e-06, -7.8666e-07,  5.4444e-06,  4.1573e-06],
+          [ 2.1068e-06,  2.1613e-06,  1.6782e-06, -1.7319e-06],
+          [-3.3062e-06,  1.8240e-06,  1.5503e-07, -1.1845e-06]],
+
+         [[-6.9039e-07, -7.8666e-07,  2.1613e-06,  1.8240e-06],
+          [-7.8666e-07, -5.1901e-06, -1.3397e-06, -2.3585e-06],
+          [-1.3779e-07, -1.3397e-06,  1.5387e-06, -9.2919e-07],
+          [-4.4074e-06, -2.3585e-06,  3.4306e-06,  4.6928e-06]],
+
+         [[ 8.5919e-07, -1.3779e-07, -1.7007e-06,  2.6708e-07],
+          [ 5.4444e-06, -1.3397e-06, -5.4883e-06, -1.4098e-06],
+          [ 1.7991e-06,  1.5387e-06,  5.0847e-07, -2.8154e-06],
+          [-2.3460e-06, -9.2919e-07,  5.3683e-06,  2.8883e-06]],
+
+         [[-3.2194e-06, -4.4074e-06, -1.4233e-06,  2.1045e-06],
+          [ 4.1573e-06, -2.3585e-06, -1.4098e-06,  2.7505e-06],
+          [-1.4071e-07,  3.4306e-06,  2.1388e-07, -5.6666e-06],
+          [-2.0761e-06,  4.6928e-06, -1.0000e-06, -6.9623e-06]]],
+
+
+        [[[ 1.0068e-07,  8.5919e-07, -7.5026e-08, -5.9169e-07],
+          [ 2.1068e-06, -1.3779e-07,  1.7991e-06, -1.4071e-07],
+          [-2.2060e-06, -1.7007e-06, -1.0472e-06,  3.6510e-07],
+          [-1.6017e-06,  2.6708e-07, -1.8384e-06, -3.1937e-06]],
+
+         [[ 3.3722e-06,  5.4444e-06,  1.6782e-06,  1.5503e-07],
+          [ 2.1613e-06, -1.3397e-06,  1.5387e-06,  3.4306e-06],
+          [-1.7007e-06, -5.4883e-06,  5.0847e-07,  5.3683e-06],
+          [-1.4233e-06, -1.4098e-06,  2.1388e-07, -1.0000e-06]],
+
+         [[-7.5026e-08,  1.7991e-06, -1.0472e-06, -1.8384e-06],
+          [ 1.6782e-06,  1.5387e-06,  5.0847e-07,  2.1388e-07],
+          [-1.0472e-06,  5.0847e-07,  2.0331e-06,  2.0426e-06],
+          [ 3.4278e-08, -2.8154e-06,  2.0426e-06,  7.6488e-07]],
+
+         [[-1.9811e-06, -2.3460e-06,  3.4278e-08,  1.2359e-06],
+          [-1.7319e-06, -9.2919e-07, -2.8154e-06, -5.6666e-06],
+          [ 3.6510e-07,  5.3683e-06,  2.0426e-06, -2.2363e-06],
+          [ 2.7283e-06,  2.8883e-06,  7.6488e-07, -1.1608e-06]]],
+
+
+        [[[-1.5322e-06, -3.2194e-06, -1.9811e-06, -1.3824e-06],
+          [-3.3062e-06, -4.4074e-06, -2.3460e-06, -2.0761e-06],
+          [-1.6017e-06, -1.4233e-06,  3.4278e-08,  2.7283e-06],
+          [ 4.0454e-06,  2.1045e-06,  1.2359e-06,  6.0025e-07]],
+
+         [[ 4.3322e-06,  4.1573e-06, -1.7319e-06, -1.1845e-06],
+          [ 1.8240e-06, -2.3585e-06, -9.2919e-07,  4.6928e-06],
+          [ 2.6708e-07, -1.4098e-06, -2.8154e-06,  2.8883e-06],
+          [ 2.1045e-06,  2.7505e-06, -5.6666e-06, -6.9623e-06]],
+
+         [[-5.9169e-07, -1.4071e-07,  3.6510e-07, -3.1937e-06],
+          [ 1.5503e-07,  3.4306e-06,  5.3683e-06, -1.0000e-06],
+          [-1.8384e-06,  2.1388e-07,  2.0426e-06,  7.6488e-07],
+          [ 1.2359e-06, -5.6666e-06, -2.2363e-06, -1.1608e-06]],
+
+         [[-1.3824e-06, -2.0761e-06,  2.7283e-06,  6.0025e-07],
+          [-1.1845e-06,  4.6928e-06,  2.8883e-06, -6.9623e-06],
+          [-3.1937e-06, -1.0000e-06,  7.6488e-07, -1.1608e-06],
+          [ 6.0025e-07, -6.9623e-06, -1.1608e-06,  3.8243e-06]]]],
+       device='cuda:0', dtype=torch.float64, grad_fn=<SubBackward0>)
+Equivalent v =  tensor(0.0001, device='cuda:0', dtype=torch.float64, grad_fn=<RsubBackward1>)
+M1 =  tensor([[ 3.7488e-01, -7.4842e-02, -1.2792e-01,  2.2312e-01, -5.1861e-02,
+          1.9112e-02,  6.3104e-03,  4.2093e-02],
+        [-7.4842e-02,  2.6936e-01,  1.1641e-01, -7.3480e-04, -1.3536e-02,
+         -5.7239e-02, -6.3899e-02,  4.2156e-02],
+        [-1.2792e-01,  1.1641e-01,  2.6429e-01, -2.3214e-02, -1.5834e-02,
+         -5.0008e-03, -5.7828e-02, -1.4726e-01],
+        [ 2.2312e-01, -7.3480e-04, -2.3214e-02,  4.3445e-01, -4.3014e-03,
+          1.7336e-02,  9.6158e-02,  1.7089e-02],
+        [-5.1861e-02, -1.3536e-02, -1.5834e-02, -4.3014e-03,  2.9321e-01,
+          1.9484e-02,  8.0446e-03, -1.1764e-02],
+        [ 1.9112e-02, -5.7239e-02, -5.0008e-03,  1.7336e-02,  1.9484e-02,
+          2.6916e-01, -1.8115e-04, -4.0966e-03],
+        [ 6.3104e-03, -6.3899e-02, -5.7828e-02,  9.6158e-02,  8.0446e-03,
+         -1.8115e-04,  3.0533e-01, -4.4158e-02],
+        [ 4.2093e-02,  4.2156e-02, -1.4726e-01,  1.7089e-02, -1.1764e-02,
+         -4.0966e-03, -4.4158e-02,  1.9726e-01]], device='cuda:0',
+       dtype=torch.float64, grad_fn=<SelectBackward0>)
+M2 =  tensor([[ 0.2411, -0.0700, -0.0642,  0.1168, -0.0248,  0.0634,  0.0024, -0.0462],
+        [-0.0700,  0.3564, -0.0491, -0.0025,  0.0481, -0.0502,  0.0069, -0.1629],
+        [-0.0642, -0.0491,  0.3278,  0.0350, -0.0827,  0.0981, -0.0311,  0.0378],
+        [ 0.1168, -0.0025,  0.0350,  0.3624,  0.0706,  0.0868, -0.0159, -0.0603],
+        [-0.0248,  0.0481, -0.0827,  0.0706,  0.4147, -0.0222, -0.1001,  0.1288],
+        [ 0.0634, -0.0502,  0.0981,  0.0868, -0.0222,  0.2596, -0.0838, -0.0078],
+        [ 0.0024,  0.0069, -0.0311, -0.0159, -0.1001, -0.0838,  0.1216, -0.0454],
+        [-0.0462, -0.1629,  0.0378, -0.0603,  0.1288, -0.0078, -0.0454,  0.3744]],
+       device='cuda:0', dtype=torch.float64, grad_fn=<SelectBackward0>)
+M3 =  tensor([[ 0.2003, -0.0671,  0.0249,  0.0344,  0.0436, -0.0607,  0.0865, -0.0701],
+        [-0.0671,  0.3622,  0.0196, -0.1117,  0.0528,  0.0016, -0.1608,  0.0258],
+        [ 0.0249,  0.0196,  0.1096, -0.0157, -0.0063,  0.0715,  0.0129,  0.0344],
+        [ 0.0344, -0.1117, -0.0157,  0.1522,  0.0351, -0.0330,  0.1314,  0.0925],
+        [ 0.0436,  0.0528, -0.0063,  0.0351,  0.1264, -0.0537,  0.0250,  0.0424],
+        [-0.0607,  0.0016,  0.0715, -0.0330, -0.0537,  0.2525,  0.0094, -0.0192],
+        [ 0.0865, -0.1608,  0.0129,  0.1314,  0.0250,  0.0094,  0.2761,  0.0963],
+        [-0.0701,  0.0258,  0.0344,  0.0925,  0.0424, -0.0192,  0.0963,  0.3076]],
+       device='cuda:0', dtype=torch.float64, grad_fn=<SelectBackward0>)
+M4 =  tensor([[ 0.1837,  0.2119,  0.1672, -0.3744,  0.0331, -0.0219, -0.0951,  0.0742],
+        [ 0.2119,  0.0121, -0.0869,  0.1149, -0.0873,  0.1059,  0.2178,  0.0950],
+        [ 0.1672, -0.0869,  0.2983,  0.0039,  0.1049, -0.1646,  0.0760,  0.0750],
+        [-0.3744,  0.1149,  0.0039,  0.0510, -0.1014, -0.0711, -0.2117, -0.0493],
+        [ 0.0331, -0.0873,  0.1049, -0.1014,  0.1657,  0.0564,  0.0670, -0.1595],
+        [-0.0219,  0.1059, -0.1646, -0.0711,  0.0564,  0.2188,  0.0746,  0.0311],
+        [-0.0951,  0.2178,  0.0760, -0.2117,  0.0670,  0.0746,  0.2970, -0.0068],
+        [ 0.0742,  0.0950,  0.0750, -0.0493, -0.1595,  0.0311, -0.0068,  0.1208]],
+       device='cuda:0', dtype=torch.float64, grad_fn=<SelectBackward0>)
+interval time: [108674.56988167763]
