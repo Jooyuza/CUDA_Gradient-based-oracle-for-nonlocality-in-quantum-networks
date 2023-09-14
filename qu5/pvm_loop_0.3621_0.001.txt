@@ -1,0 +1,20 @@
+1690820555.967827
+r=: 1
+0 tensor(5.4670, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+1 tensor(5.1076, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+2 tensor(4.9063, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+3 tensor(4.7672, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+4 tensor(4.6612, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+5 tensor(4.5757, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+6 tensor(4.5042, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+7 tensor(4.4426, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+8 tensor(4.3886, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+9 tensor(4.3404, device='cuda:0', dtype=torch.float64, grad_fn=<AddBackward0>)
+tensor([0.0845, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.5550, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.4896, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.4208, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.5177],
+       device='cuda:0', dtype=torch.float64, grad_fn=<CatBackward0>)
+equivalent_v =  tensor(-0.3333, device='cuda:0', dtype=torch.float64, grad_fn=<DivBackward0>)
+[tensor(2.8850e-06, device='cuda:0', dtype=torch.float64,
+       grad_fn=<TraceBackward0>), tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>), tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>), tensor(0.0176, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>), tensor(0.0004, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>), tensor(0.0176, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>), tensor(0.0176, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>), tensor(0.9460, device='cuda:0', dtype=torch.float64, grad_fn=<TraceBackward0>)]
+r=: 2
